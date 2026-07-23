@@ -1,4 +1,4 @@
-# Playwright E2E Test Automation — SauceDemo
+# Playwright E2E Test Automation: SauceDemo
 
 End-to-end UI test automation for [SauceDemo](https://www.saucedemo.com) built with Playwright and TypeScript.
 
