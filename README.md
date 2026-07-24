@@ -31,4 +31,4 @@ test-data/      # Test users and data
 ```
 
 ---
-Built by [Saisaran Parthasarathy](mailto:saisaranpang@gmail.com) — SDET, 4+ years, India & France
+Built by [Saisaran Parthasarathy](https://leetcode.com/u/CoVoKOnitJ/) — SDET, 4+ years, India & France
